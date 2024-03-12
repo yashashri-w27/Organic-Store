@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+  overflow-x: hidden;
+}
+
+a:link,
+a:visited {
+  text-decoration: none;
+  font-size: 20px;
+  color: black;
+}
+
+::selection {
+  background-color: lightgreen;
+}
+
+.backimg1 {
+  background-image: url('./product11-free-img.jpg');
+  background-position: bottom right;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.backimg2 {
+  background-image: url('./product13-free-img.jpg');
+  background-position: bottom right;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.backimg3 {
+  background-image: url('./product17-free-img.jpg');
+  background-position: bottom right;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.s {
+  font-size: 20px;
+  color: black;
+}
